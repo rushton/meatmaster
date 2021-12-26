@@ -1,0 +1,7 @@
+#!/bin/bash
+
+tmux send-keys "python3 meatmaster.py $1" enter
+
+tmux split-window -h 
+tmux send-keys "tail -f meat_log_$1" enter
+tmux select-pane -t 0

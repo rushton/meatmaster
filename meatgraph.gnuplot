@@ -9,7 +9,7 @@ set xlabel "Time"
 set ylabel "Degrees F"
 set autoscale y
 
-plot "~/meat_log" using 1:3 title "deg"
+plot "meat_log_".year using 1:3 title "deg"
 set style line 1 linewidth 100 
 pause 1
 reread
