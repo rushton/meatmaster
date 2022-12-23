@@ -15,7 +15,16 @@ gnuplot -e "year=<year>" ./meatgraph.gnuplot
 ```
 
 # Log
+## 2022
+![2022](./prime_rib_label_2022.JPG)
+![2022](./prime_rib_2021.JPG)
 
+* 18lb prime rib
+* 7 ribs
+* 2tsp salt per rib
+* salted/peppered and cut the ribs off 2022-12-23T11:00:00PST (no salt reserved)
+* garlic pierced into the bottom of the meat
+* left in fridge wrapped in cheese cloth
 ## 2021
 
 ![2021](./prime_rib_2021.JPG)
