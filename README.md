@@ -16,7 +16,7 @@ gnuplot -e "year=<year>" ./meatgraph.gnuplot
 
 # Log
 ## 2022
-![2022](./prime_rib_label_2022.JPG)
+![2022](./prime_rib_label_2022.jpg)
 ![2022](./prime_rib_2022.JPG)
 
 * 18lb prime rib
