@@ -11,5 +11,6 @@ set autoscale y
 
 plot "meat_log_".year using 1:3 title "deg"
 set style line 1 linewidth 100 
-pause 1
+pause mouse keypress
+if (MOUSE_KEY == 27) exit 0
 reread
