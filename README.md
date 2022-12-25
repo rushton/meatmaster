@@ -23,8 +23,11 @@ gnuplot -e "year=<year>" ./meatgraph.gnuplot
 * 7 ribs
 * 2tsp salt per rib
 * salted/peppered and cut the ribs off 2022-12-23T11:00:00PST (no salt reserved)
-* garlic pierced into the bottom of the meat
-* left in fridge wrapped in cheese cloth
+* garlic pierced into the bottom of the meat 
+* Out of the fridge at 6:30AM (34F internal temp)
+* Traegar set to smoke at 6:30AM
+* Put in traegar at 7:15AM
+
 ## 2021
 
 ![2021](./prime_rib_2021.JPG)
