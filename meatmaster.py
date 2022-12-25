@@ -24,7 +24,7 @@ def main():
         meat_log.flush()
 
         if deg_per_min > 0:
-            mins_to_done = (120 - meat_temp) / deg_per_min
+            mins_to_done = (125 - meat_temp) / deg_per_min
             est_time_to_done = now + timedelta(minutes=mins_to_done)
             print(f"Estimated Done Time: {est_time_to_done.isoformat()}")
 
