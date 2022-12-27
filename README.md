@@ -34,6 +34,8 @@ gnuplot -e "year=<year>" ./meatgraph.gnuplot
 * There was very little drippings, made a gravy with 4 carrots, an onion, 3 celery stocks, 2 cubes of butter, 2 quarts of beef stock, and flour.
 * Seared in oven for ~5 mins
 * Plenty of leftovers, had french dips the next day
+* Scoring the fat didnt help the splitting
+* outside temp at 7:30AM 11F
 
 ## 2021
 
