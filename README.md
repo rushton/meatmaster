@@ -27,6 +27,12 @@ gnuplot -e "year=<year>" ./meatgraph.gnuplot
 * Out of the fridge at 6:30AM (34F internal temp)
 * Traegar set to smoke at 6:30AM
 * Put in traegar at 7:15AM
+* Moved probe from side to top-middle near the end of the roast (start in the middle next time)
+* took roast out around 2:30PM
+* Let rest for about 40 minutes
+* There was very little drippings, made a gravy with 4 carrots, an onion, 3 celery stocks, 2 cubes of butter, 2 quarts of beef stock, and flour.
+* Seared in oven for ~5 mins
+* Plenty of leftovers, had french dips the next day
 
 ## 2021
 
